@@ -6,3 +6,4 @@ google-auth-oauthlib
 slack_sdk
 tweepy
 python-dotenv
+gunicorn
